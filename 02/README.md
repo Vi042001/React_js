@@ -1,2 +1,5 @@
 ### Practice of Hooks 
-01.  useState (App.js and Data.js) 
+01.  useState 3 example
+ 1.App.js  
+ 2.Data.js ,datas.json
+ 3. form 
