@@ -1,9 +1,5 @@
 ### Practice of Hooks 
-##### useState  example
-file name
+01.  useState 3 example
  1.App.js  
- 2.Data.js,datas.json
+ 2.Data.js ,datas.json
  3. form 
-
-
-##### useeffect 
