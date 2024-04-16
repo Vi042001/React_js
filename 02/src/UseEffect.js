@@ -7,6 +7,11 @@ import React, { useState } from 'react'
 
     useState (() =>{
         alert('we r in use state')
+        return(
+            ()=>{
+                console.log("return of use state")
+            }
+        )
     }, [clicked]);
 
    
